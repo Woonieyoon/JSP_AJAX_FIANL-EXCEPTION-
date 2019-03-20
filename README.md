@@ -2,7 +2,9 @@
 
 
 1.http://localhost:8080/bbs/emplist.do를 통해 접속
+
 2.게시글 리스트 화면, pagination 부분을 별로도 ajax를 통해 동적으로 할당
+
 3.ajax 에러 처리(insert 하는부분) 되어있다.
 
 
